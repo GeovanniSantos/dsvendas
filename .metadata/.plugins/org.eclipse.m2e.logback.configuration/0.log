@@ -897,3 +897,4 @@
 2021-11-06 02:44:25,173 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-11-06 02:44:25,180 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-11-06 02:44:25,181 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-06 02:44:25,181 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Geovanni\Desktop\CURSOS\JAVA\DEVSUPERIOR\ws-sds5\backend\src\test\resources
