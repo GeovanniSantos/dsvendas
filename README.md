@@ -11,7 +11,7 @@ DSVendas é uma aplicação full stack web construída durante a 3ª edição da
 A aplicação consiste em uma presentação de informações de vendas, onde os dados são coletados no browser e depois são listados na tabela, além disso, também apresenta um dashboard com gráficos baseados nestes dados.
 
 
-## Modelo conceitual
+# Modelo conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
 
 # Tecnologias utilizadas
