@@ -38,7 +38,7 @@ A aplicação consiste em uma presentação de informações de vendas, onde os 
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
+# clonar repositório 
 git clone https://github.com/GeovanniSantos/dsvendas
 
 # entrar na pasta do projeto back end
